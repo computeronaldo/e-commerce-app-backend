@@ -1,0 +1,191 @@
+[
+  {
+    "productName": "Men's Casual Shirt",
+    "productDescription": "A stylish casual shirt for men, perfect for everyday wear.",
+    "productPrice": 25.99,
+    "productCategory": "Men",
+    "productRating": 4.2,
+    "discountRate": 10,
+    "productImageUrl": "https://images.unsplash.com/photo-1516822048083-95f4a01a27e9"
+  },
+  {
+    "productName": "Women's Summer Dress",
+    "productDescription": "A light and breezy summer dress for women.",
+    "productPrice": 35.99,
+    "productCategory": "Women",
+    "productRating": 4.5,
+    "discountRate": 15,
+    "productImageUrl": "https://images.unsplash.com/photo-1520975736479-b6a35f0c7bfb"
+  },
+  {
+    "productName": "Kids' T-shirt",
+    "productDescription": "Comfortable and fun T-shirt for kids.",
+    "productPrice": 12.99,
+    "productCategory": "Kids",
+    "productRating": 4.0,
+    "discountRate": 5,
+    "productImageUrl": "https://images.unsplash.com/photo-1502767089025-6572583495b8"
+  },
+  {
+    "productName": "Wireless Headphones",
+    "productDescription": "High-quality wireless headphones with noise-cancelling feature.",
+    "productPrice": 99.99,
+    "productCategory": "Electronics",
+    "productRating": 4.7,
+    "discountRate": 20,
+    "productImageUrl": "https://images.unsplash.com/photo-1512499617640-c2f999039375"
+  },
+  {
+    "productName": "Home Coffee Maker",
+    "productDescription": "Brew the perfect cup of coffee every morning with this coffee maker.",
+    "productPrice": 49.99,
+    "productCategory": "Home",
+    "productRating": 4.3,
+    "discountRate": 25,
+    "productImageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "productName": "Men's Running Shoes",
+    "productDescription": "Comfortable and durable running shoes for men.",
+    "productPrice": 59.99,
+    "productCategory": "Men",
+    "productRating": 4.6,
+    "discountRate": 30,
+    "productImageUrl": "https://images.unsplash.com/photo-1529070538774-1843cb3265df"
+  },
+  {
+    "productName": "Women's Handbag",
+    "productDescription": "Stylish handbag for women, perfect for any occasion.",
+    "productPrice": 45.99,
+    "productCategory": "Women",
+    "productRating": 4.8,
+    "discountRate": 20,
+    "productImageUrl": "https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3"
+  },
+  {
+    "productName": "Kids' Toy Car",
+    "productDescription": "Fun and safe toy car for kids.",
+    "productPrice": 29.99,
+    "productCategory": "Kids",
+    "productRating": 4.4,
+    "discountRate": 10,
+    "productImageUrl": "https://images.unsplash.com/photo-1526312426976-f4d754fa9bd6"
+  },
+  {
+    "productName": "Bluetooth Speaker",
+    "productDescription": "Portable Bluetooth speaker with excellent sound quality.",
+    "productPrice": 39.99,
+    "productCategory": "Electronics",
+    "productRating": 4.5,
+    "discountRate": 15,
+    "productImageUrl": "https://images.unsplash.com/photo-1499013819532-e4ff41b00669"
+  },
+  {
+    "productName": "Home Blender",
+    "productDescription": "High-speed blender for making smoothies and other drinks.",
+    "productPrice": 59.99,
+    "productCategory": "Home",
+    "productRating": 4.3,
+    "discountRate": 25,
+    "productImageUrl": "https://images.unsplash.com/photo-1570158268183-d296b2892211"
+  },
+  {
+    "productName": "Men's Watch",
+    "productDescription": "Elegant and classic watch for men.",
+    "productPrice": 120.00,
+    "productCategory": "Men",
+    "productRating": 4.9,
+    "discountRate": 10,
+    "productImageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "productName": "Women's Sunglasses",
+    "productDescription": "Trendy sunglasses for women, offering UV protection.",
+    "productPrice": 25.99,
+    "productCategory": "Women",
+    "productRating": 4.4,
+    "discountRate": 20,
+    "productImageUrl": "https://images.unsplash.com/photo-1520967616323-b5076b928b79"
+  },
+  {
+    "productName": "Kids' Bicycle",
+    "productDescription": "Safe and fun bicycle for kids, available in various colors.",
+    "productPrice": 89.99,
+    "productCategory": "Kids",
+    "productRating": 4.7,
+    "discountRate": 15,
+    "productImageUrl": "https://images.unsplash.com/photo-1591047139822-6e6a1f8e8ec5"
+  },
+  {
+    "productName": "Smartphone",
+    "productDescription": "Latest model smartphone with cutting-edge features.",
+    "productPrice": 699.99,
+    "productCategory": "Electronics",
+    "productRating": 4.8,
+    "discountRate": 10,
+    "productImageUrl": "https://images.unsplash.com/photo-1512499617640-c2f999039375"
+  },
+  {
+    "productName": "Vacuum Cleaner",
+    "productDescription": "Powerful vacuum cleaner for all types of flooring.",
+    "productPrice": 129.99,
+    "productCategory": "Home",
+    "productRating": 4.6,
+    "discountRate": 20,
+    "productImageUrl": "https://images.unsplash.com/photo-1600488993713-3903e1b4e2f8"
+  },
+  {
+    "productName": "Men's Leather Jacket",
+    "productDescription": "Stylish leather jacket for men.",
+    "productPrice": 150.00,
+    "productCategory": "Men",
+    "productRating": 4.7,
+    "discountRate": 30,
+    "productImageUrl": "https://images.unsplash.com/photo-1516822048083-95f4a01a27e9"
+  },
+  {
+    "productName": "Women's Necklace",
+    "productDescription": "Beautiful necklace for women, perfect for special occasions.",
+    "productPrice": 70.00,
+    "productCategory": "Women",
+    "productRating": 4.9,
+    "discountRate": 20,
+    "productImageUrl": "https://images.unsplash.com/photo-1508610048659-a06a7c133a29"
+  },
+  {
+    "productName": "Kids' Backpack",
+    "productDescription": "Durable and stylish backpack for kids.",
+    "productPrice": 19.99,
+    "productCategory": "Kids",
+    "productRating": 4.5,
+    "discountRate": 10,
+    "productImageUrl": "https://images.unsplash.com/photo-1526312426976-f4d754fa9bd6"
+  },
+  {
+    "productName": "Laptop",
+    "productDescription": "High-performance laptop for work and play.",
+    "productPrice": 999.99,
+    "productCategory": "Electronics",
+    "productRating": 4.8,
+    "discountRate": 15,
+    "productImageUrl": "https://images.unsplash.com/photo-1512499617640-c2f999039375"
+  },
+  {
+    "productName": "Home Desk Lamp",
+    "productDescription": "Modern desk lamp with adjustable brightness.",
+    "productPrice": 35.99,
+    "productCategory": "Home",
+    "productRating": 4.2,
+    "discountRate": 25,
+    "productImageUrl": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+  },
+  {
+    "productName": "Men's Wallet",
+    "productDescription": "Classic leather wallet for men.",
+    "productPrice": 45.00,
+    "productCategory": "Men",
+    "productRating": 4.5,
+    "discountRate": 10,
+    "productImageUrl": "https://images.unsplash.com/photo-1516822048083-95f4a01a27e9"
+  }
+]  
